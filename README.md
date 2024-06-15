@@ -1,4 +1,4 @@
-LiterAlura es un catalogo de busqeuda de libros que utiliza el Proyecto Gutenberg, una biblioteca en línea de libros electrónicos gratuitos.
+LiterAlura es un catalogo de busqueda de libros que utiliza el Proyecto Gutenberg, una biblioteca en línea de libros electrónicos gratuitos.
 
 ## Descripción
 Este proyecto tiene como propopito permitir la interacción de los usuarios a través de la consola y proporciona varias opciones, haciendo uso de la API Gutendex.
